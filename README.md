@@ -8,18 +8,27 @@ The resulting markdown is issued from standard output.
 The following javadoc tags are recognised:
 
 brief
+
 param
+
 return
+
 note
+
 todo
+
 Not currently mapped to markdown:
+
 author
+
 version
+
 see
 
 Different markdown variants may be output. This currently requires changing the value nStyle in the source code.
 Supported markdown:
 
 github
+
 tiddlywiki
 
